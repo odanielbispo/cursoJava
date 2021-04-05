@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Employee/Employee.iml" filepath="$PROJECT_DIR$/Employee/Employee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Product/Product.iml" filepath="$PROJECT_DIR$/Product/Product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Product_/Product_.iml" filepath="$PROJECT_DIR$/Product_/Product_.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Rectangle/Rectangle.iml" filepath="$PROJECT_DIR$/Rectangle/Rectangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Triangle/Triangle.iml" filepath="$PROJECT_DIR$/Triangle/Triangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curso_programacao/curso_programacao.iml" filepath="$PROJECT_DIR$/curso_programacao/curso_programacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/finalGrade/finalGrade.iml" filepath="$PROJECT_DIR$/finalGrade/finalGrade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/howManyDollars/howManyDollars.iml" filepath="$PROJECT_DIR$/howManyDollars/howManyDollars.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java.iml" filepath="$PROJECT_DIR$/.idea/java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/membroEstatico/membroEstatico.iml" filepath="$PROJECT_DIR$/membroEstatico/membroEstatico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reaprendendo/reaprendendo.iml" filepath="$PROJECT_DIR$/reaprendendo/reaprendendo.iml" />
+    </modules>
+  </component>
+</project>
