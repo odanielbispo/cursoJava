@@ -30,7 +30,7 @@ public class Program {
             System.out.print("Room: ");
             int room = sc.nextInt();
 
-            vect[room - 1] = new Rooms(name, email, room);
+            vect[room] = new Rooms(name, email, room);
             System.out.println();
         }
 
@@ -42,6 +42,7 @@ public class Program {
                 System.out.println(vect[i].getRoom() + ": " + vect[i].getName() + ", " + vect[i].getEmail());
             }
         }
+        System.out.println(vect[5]);
 
     }
 }
