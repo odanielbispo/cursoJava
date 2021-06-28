@@ -15,10 +15,10 @@ public  class PhysicalPerson extends Tax{
     @Override
     public double tax() {
         if(getAnnualIncome() < 20000.00){
-            return (getAnnualIncome() * 0.15) - (healthTaxes / 0.5) ;
+            return (getAnnualIncome() * 0.15) - (healthTaxes * 0.5) ;
         }
         else{
-            return (getAnnualIncome() * 0.25) - (healthTaxes / 0.5);
+            return (getAnnualIncome() * 0.25) - (healthTaxes * 0.5);
         }
     }
 }
